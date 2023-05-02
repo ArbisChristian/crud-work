@@ -1,0 +1,107 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  .heading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .description {
+    text-align: justify;
+    margin-bottom: 20px;
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  /* Services section */
+  #services {
+    margin-top: 20px;
+    padding: 20px 0;
+    background-color: #f5f5f5;
+  }
+  
+  #services h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #181616;
+  }
+  
+  .hr {
+    border: none;
+    height: 1px;
+    color: #181616;
+    background-color: #ccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  /* Style for the main container */
+#services {
+    padding: 50px 0;
+    background-color: #f7f7f7;
+  }
+  
+  /* Style for the card */
+  .card {
+    border: none;
+  }
+  
+  /* Style for the card title */
+  .normi {
+    font-size: 28px;
+    font-weight: 700;
+    color: #333;
+    margin-top: 30px;
+  }
+  
+  /* Style for the card body */
+  .card-body {
+    padding: 20px;
+  }
+  
+  /* Style for the card text */
+  .card-text {
+    font-size: 16px;
+    color: #555;
+    line-height: 24px;
+  }
+  
+  /* Style for the "Learn More" button */
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+/* Style for the card title */
+.normi {
+    font-size: 28px;
+    font-weight: 700;
+    color: #333;
+    margin-top: 30px;
+  }
+  
+  /* Style for the card body */
+  .card-body {
+    padding: 20px;
+  }
+    
